@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="sahilsatishkumar.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="sahilsatishkumar.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="margin-right: 0.5rem"/>][website] [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="margin-right: 0.5rem"/>][twitter] [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="margin-right: 0.5rem"/>][linkedin]
 
 <br />
 
@@ -29,14 +29,12 @@
 
 ---
 
-Recent Github Activity
+### Recent Github Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-Github Stats
-
-  <img align="left" alt="Sahil Satishkumar's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sahrckr&show_icons=true&hide_border=true" />
+  <img alt="Sahil Satishkumar's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sahrckr&show_icons=true&hide_border=true&hide=stars,contribs" />
 
 [website]: https://sahilsatishkumar.dev
 [twitter]: https://twitter.com/sahrckr
