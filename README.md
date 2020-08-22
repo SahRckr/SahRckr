@@ -4,10 +4,10 @@
 
 ## I break web stuff
 
-- 🔭 I’m currently looking for a gig
-- 🌱 I’m currently learning GoLang & AWS stuff
-- 🥅 2020 Goals: Read and learn more
-- ⚡ Fun fact: I listen to opera.
+- 🔭 &emsp;I’m currently looking for a gig.
+- 🌱 &emsp;I’m currently learning GoLang & some AWS Services.
+- 🥅 &emsp;2020 Goals: Read more, and learn more.
+- ⚡ &emsp;Fun fact: I listen to opera.
 
 ### Connect with me:
 
@@ -25,6 +25,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [npm 📦 React OpenTable](https://sahilsatishkumar.dev/blog/2020/08/21/react-opentable)
 - [Soft Skills](https://sahilsatishkumar.dev/blog/2020/08/16/Soft-skills)
 - [Hello World](https://sahilsatishkumar.dev/blog/hello-world)
@@ -35,6 +36,7 @@
 ### Recent Github Activity
 
 <!--START_SECTION:activity-->
+
 1. 🎉 Merged PR [#18](https://github.com//SahRckr/profile/pull/18) in [SahRckr/profile](https://github.com//SahRckr/profile)
 2. 💪 Opened PR [#18](https://github.com//SahRckr/profile/pull/18) in [SahRckr/profile](https://github.com//SahRckr/profile)
 3. 🎉 Merged PR [#17](https://github.com//SahRckr/profile/pull/17) in [SahRckr/profile](https://github.com//SahRckr/profile)
