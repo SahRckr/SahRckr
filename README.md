@@ -25,7 +25,6 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [npm 📦 React OpenTable](https://sahilsatishkumar.dev/blog/2020/08/21/react-opentable)
 - [Soft Skills](https://sahilsatishkumar.dev/blog/2020/08/16/Soft-skills)
 - [Hello World](https://sahilsatishkumar.dev/blog/hello-world)
