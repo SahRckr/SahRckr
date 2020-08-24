@@ -36,11 +36,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#18](https://github.com//SahRckr/profile/pull/18) in [SahRckr/profile](https://github.com//SahRckr/profile)
-2. 💪 Opened PR [#18](https://github.com//SahRckr/profile/pull/18) in [SahRckr/profile](https://github.com//SahRckr/profile)
-3. 🎉 Merged PR [#17](https://github.com//SahRckr/profile/pull/17) in [SahRckr/profile](https://github.com//SahRckr/profile)
-4. 💪 Opened PR [#17](https://github.com//SahRckr/profile/pull/17) in [SahRckr/profile](https://github.com//SahRckr/profile)
-5. 🗣 Commented on [#16](https://github.com//SahRckr/profile/issues/16) in [SahRckr/profile](https://github.com//SahRckr/profile)
+1. 💪 Opened PR [#19](https://github.com//SahRckr/profile/pull/19) in [SahRckr/profile](https://github.com//SahRckr/profile)
+2. 🎉 Merged PR [#18](https://github.com//SahRckr/profile/pull/18) in [SahRckr/profile](https://github.com//SahRckr/profile)
+3. 💪 Opened PR [#18](https://github.com//SahRckr/profile/pull/18) in [SahRckr/profile](https://github.com//SahRckr/profile)
+4. 🎉 Merged PR [#17](https://github.com//SahRckr/profile/pull/17) in [SahRckr/profile](https://github.com//SahRckr/profile)
+5. 💪 Opened PR [#17](https://github.com//SahRckr/profile/pull/17) in [SahRckr/profile](https://github.com//SahRckr/profile)
 <!--END_SECTION:activity-->
 
   <img alt="Sahil Satishkumar's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sahrckr&show_icons=true&hide_border=true&hide=stars,contribs" />
