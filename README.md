@@ -4,9 +4,8 @@
 
 ## I break web stuff
 
-- 🔭 &emsp;I’m currently looking for a gig.
 - 🌱 &emsp;I’m currently learning GoLang & some AWS Services.
-- 🥅 &emsp;2020 Goals: Read more, and learn more.
+- 🥅 &emsp;2020 Goals: Read more, and learn more (30 books down, hundreds more to go).
 - ⚡ &emsp;Fun fact: I listen to opera.
 
 ### Connect with me:
