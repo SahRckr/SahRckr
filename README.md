@@ -2,12 +2,6 @@
 
 [![Website](https://img.shields.io/website?label=sahilsatishkumar.dev&style=for-the-badge&url=https%3A%2F%2Fsahilsatishkumar.dev)](https://sahilsatishkumar.dev) [![Twitter Follow](https://img.shields.io/twitter/follow/sahrckr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsahrckr&screen_name=sahrckr)
 
-## I break web stuff
-
-- 🌱 &emsp;I’m currently learning GoLang & some AWS Services.
-- 🥅 &emsp;2020 Goals: Read more, and learn more (30 books down, hundreds more to go).
-- ⚡ &emsp;Fun fact: I listen to opera.
-
 ### Connect with me:
 
 [<img align="left" alt="sahilsatishkumar.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="margin-right: 0.5rem"/>][website] [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="margin-right: 0.5rem"/>][twitter] [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="margin-right: 0.5rem"/>][linkedin]
